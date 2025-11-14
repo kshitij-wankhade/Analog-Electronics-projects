@@ -1,4 +1,4 @@
-741 Op-Amp Astable Multivibrator
+---------------------741 Op-Amp Astable Multivibrator
 
 
 This is a Astable Multibrator made using 741 Op-Amp,designed to generate continuous square wave without any external input or trigger. I build this project during my 1st year of Electronics Engineering to understand wave generation and to get hand on experience with components.
