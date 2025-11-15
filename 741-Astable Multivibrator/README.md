@@ -9,6 +9,8 @@ Working Principle-
 The Op-Amp is configured as a comparator with positive feedback, causing it to switch output between +Vsat to -Vsat continuously.
 The capacitor charges and discharges repeatedly, causing oscillation and blinking of two leds at two different outputs voltage.
 
+For Circuit simulation and Practical video click on youtube link : https://youtu.be/GJ493voAdqc
+
 -----
 
 Components Used-
